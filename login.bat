@@ -1,0 +1,1 @@
+tabcmd login -s server -u USERID -p password
